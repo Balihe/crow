@@ -1,3 +1,6 @@
+---
+layout:page
+---
 <img width="1911" height="1063" alt="屏幕截图 2026-09-25 153959" src="https://github.com/user-attachments/assets/4dde5c1b-ba87-48bc-b2df-08b4555aa860" />
 <img width="1910" height="1105" alt="屏幕截图 2026-09-25 154033" src="https://github.com/user-attachments/assets/cffbfe20-4e88-4d84-ad02-c98aa9e7149d" />
 
