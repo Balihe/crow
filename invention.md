@@ -6,4 +6,5 @@
 
 **以下是我通过，FreeCAD1.1做成的工科草图和以及最后完成的模型**
 ![截图3](./3.png)![截图4](./4.png)![截图5](./5.png)
-< img src="6.png" width="48%"> < img src="7.png" width="48%">< img src="8.png" width="48%">
+
+
